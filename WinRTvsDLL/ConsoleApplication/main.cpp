@@ -28,4 +28,6 @@ int main()
 	std::cout << "a + b (calculator.Add(a, b)): " << calculator.Add(a, b) << std::endl;
 	std::cout << "a - b (calculator.Minus(a, b)): " << calculator.Minus(a, b) << std::endl;
 	std::cout << "a * b (calculator.Multiply(a, b)): " << calculator.Multiply(a, b) << std::endl;
+
+    return 0;
 }
