@@ -1,0 +1,10 @@
+namespace RuntimeComponent1
+{
+    [default_interface]
+    runtimeclass RuntimeClassSingleton
+    {
+        RuntimeClassSingleton();
+        void Foo();
+        static RuntimeClassSingleton GetInstance();
+    }
+}

@@ -1,0 +1,1 @@
+#include "StaticLibrary2.h"
